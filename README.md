@@ -2,7 +2,7 @@
 
 Scripts created during placement year to analyze MEA images with postnatal cortical cells platted on.
 
-Image Segmentation code analyzes MEA images. It detects cells and cell clusters, labels MEA electrodes with their number (MEA with an 8x8 formation) and finds cell properties, such as area and coordinates.
+Segmentation Two code analyzes MEA images. It detects cells and cell clusters, labels MEA electrodes with their number (MEA with an 8x8 formation) and finds cell properties, such as area and coordinates.
 
 MEA Image Crop allows to automatically crop an MEA image taken on the program WASABI, so as to analyze only the grid and not the surrounding areas of the MEA.
 
